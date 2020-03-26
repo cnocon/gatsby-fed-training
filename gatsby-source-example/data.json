@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "name": "Caleb",
+      "color": "Orange",
+      "drink": "Orange Crush"
+    },
+    {
+      "name": "Doug",
+      "color": "Green",
+      "drink": "Dr Pepper"
+    },
+    {
+      "name": "Aaron",
+      "color": "Black",
+      "drink": "Tequila"
+    }
+  ]
+}
